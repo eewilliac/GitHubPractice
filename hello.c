@@ -3,6 +3,6 @@
 #include <stdlib.h>
 
 int main(void){
-	puts("hello, world!");
+	puts("New Branch!");
 	return EXIT_SUCCESS;
 }
