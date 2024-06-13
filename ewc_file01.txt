@@ -1,1 +1,4 @@
 yet another text file
+that we can modify to show
+how git works.
+And Practice how git works. And I feel like the village blacksmith.
