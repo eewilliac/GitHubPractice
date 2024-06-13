@@ -1,6 +1,1 @@
-yet another text file
-that we can modify to show
-how git works.
-And Practice how git works. And I feel like the village blacksmith.
-I should try and memorize that poem...to keep my mind flexible.
 I should also try to work on the Art of War.
